@@ -52,7 +52,7 @@ function MyApp({ Component, pageProps }) {
                     color: 'white',
                     fontSize: '20px'
                   }}>
-                   MarketPlace
+                   Reaper MarketPlace
                   </a>
               </Button>
               </Link>
